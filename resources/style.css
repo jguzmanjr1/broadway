@@ -1,0 +1,39 @@
+* {
+  font-family: helvetica;
+  text-align: center;
+}
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+.building {
+  background-image: url("images/building.png");
+}
+.toplink {
+  font-size: 18px;
+  color: white;
+}
+h2 {
+  font-weight: bold;
+  font-size: 32px;
+}
+h3 {
+  font-weight: bold;
+  font-size: 23px
+}
+p {
+  font-size: 14px
+}
+.mid {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url("images/building.png");
+}
+.bottomlink{
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
